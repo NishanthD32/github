@@ -1,0 +1,74 @@
+.parent{
+    
+    color: whitesmoke;
+    background-color: #202a3d;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+.fa-brands{
+position:fixed; 
+padding-top: 13px; 
+	left:20px;
+}
+.searchbar{
+    background-color: #222426;
+    position: absolute;
+    right: 200px;
+    color: #c6c9cf;
+    width: 500px;
+    border-radius: 5px;
+    
+}
+.box1{
+    width: 300px;
+    height: 450px;
+    background-color:#222426 ;
+    padding-right: 50px;
+    border-radius: 10px;
+    position: absolute;
+    left: 200px;
+}
+.box2{
+    width: 200px;
+    height: 150px;
+    background-color:#222426 ;
+    padding-right: 50px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 250px;
+    left: 550px;
+}
+.box3{
+    width: 200px;
+    height: 150px;
+    background-color:#222426 ;
+    padding-right: 50px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 250px;
+    left: 800px;
+}
+.box4{
+    width: 200px;
+    height: 150px;
+    background-color:#222426 ;
+    padding-right: 50px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 250px;
+    left: 1050px;
+}
+.box5{
+    width: 700px;
+    height: 150px;
+    background-color:#222426 ;
+    padding-right: 50px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 55px;
+    left: 550px;
+}
+
+
+
